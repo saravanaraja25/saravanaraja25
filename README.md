@@ -33,7 +33,7 @@
 <h3 style="text-align:center;"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://saravanaraja.xyz"><img src="https://img.shields.io/badge/-saravanaraja.xyz-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://saravanaraja.netlify.app"><img src="https://img.shields.io/badge/-saravanaraja.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/saravanaraja25"><img src="https://img.shields.io/badge/-Saravana%20Raja-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:saravanaraja25@gamil.com"><img src="https://img.shields.io/badge/-saravanaraja25@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
  </p>
