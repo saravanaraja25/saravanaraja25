@@ -13,6 +13,7 @@
   ![CSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=C76494)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Material UI](https://img.shields.io/badge/-Material-333333?style=flat&logo=mui)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
