@@ -15,7 +15,7 @@
 <h3 style="text-align:center;"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://saravanaraja.me"><img src="https://img.shields.io/badge/-saravanaraja.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://saravanaraja.me"><img src="https://img.shields.io/badge/-saravanaraja.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/saravanaraja25"><img src="https://img.shields.io/badge/-Saravana%20Raja-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
  </p>
 
